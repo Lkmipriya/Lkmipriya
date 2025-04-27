@@ -1,9 +1,11 @@
-## Hi there 👋
+## This project examines global disparities in Hib (Haemophilus influenzae type b) vaccine coverage and its implications for healthcare access. The report analyzes vaccination data across various regions and highlights key trends in immunization rates. By exploring factors such as geographical, economic, and healthcare infrastructure variations, this project aims to provide a comprehensive understanding of the barriers to achieving universal immunization.
+
+
 
 <!--
 **Lkmipriya/Lkmipriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: sjdhjsf
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
